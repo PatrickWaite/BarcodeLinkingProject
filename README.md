@@ -1,2 +1,3 @@
 # BarcodeLinkingProject
-This project verifies a supplied list of barcodes by cross-referencing them with the ILS system, FOLIO, data.
+This project serves to validate the presence of barcoded items within our systems by cross-referencing the provided barcodes against FOLIO ILS system data. In cases where a match is established, it furnishes valuable information for identifying potential issues with shelving organization or record accuracy. However, if a barcode fails to locate a corresponding record, the project retains and returns the barcode information provided for further investigation and resolution. 
+The goal of this project is to provide a systematic approach and support to streamlining our abilities to manage physical inventory and ensure system data accuracy.
